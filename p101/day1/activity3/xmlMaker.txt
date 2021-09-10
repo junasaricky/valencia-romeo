@@ -1,0 +1,7 @@
+<card>
+	
+	<firstname>(firstname)</firstname>
+	<lastname>(lastname)</lastname>
+	<organizationName>(name)</organizationName>
+	<department>(department)</department>
+</card>
